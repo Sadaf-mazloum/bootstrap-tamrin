@@ -1,0 +1,13 @@
+.bg-img{
+         background-image: url(images/intro/intro-bg.png);
+         height: 700px;
+}
+.card-text{
+    font-size: 20px;
+}
+.card-body{
+    padding:20px;
+}
+.row-float{
+    margin-right: 230px;
+}
